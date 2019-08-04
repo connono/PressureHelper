@@ -1,0 +1,43 @@
+App.js
+©¦  Introduction.js
+©¦  Login.js
+©¦  PageControl.js
+©¦  Register.js
+©¦  
+©À©¤img
+©¦      ***
+©¸©¤page
+    ©À©¤Doctor
+    ©¦  ©¦  chat.js
+    ©¦  ©¦  comment.js
+    ©¦  ©¦  commentNavbar.js
+    ©¦  ©¦  doctorPage.js
+    ©¦  ©¦  information.js
+    ©¦  ©¦  
+    ©¦  ©¸©¤img
+    ©¦          ***
+    ©À©¤Home
+    ©¦  ©¦  HomePage.js
+    ©¦  ©¦  
+    ©¦  ©À©¤clock
+    ©¦  ©¦      clock.js
+    ©¦  ©¦      timer.js
+    ©¦  ©¦      
+    ©¦  ©¸©¤Home
+    ©¦      ©¦  Card.js
+    ©¦      ©¦  
+    ©¦      ©¸©¤img
+    ©¦              ***
+    ©¸©¤Information
+        ©¦  InformationPage.js
+        ©¦  
+        ©À©¤chart
+        ©¦      chart.js
+        ©¦      
+        ©À©¤suggestion
+        ©¦      doctor.js
+        ©¦      helper.js
+        ©¦      suggestion.js
+        ©¦      
+        ©¸©¤table
+                table.js
